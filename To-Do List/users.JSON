@@ -1,0 +1,111 @@
+[
+     {
+          "name": "name",
+          "email": "mail@gmail.com",
+          "password": "password",
+          "completed": [
+               {
+                    "id": "956093",
+                    "name": "234",
+                    "date": "05/14/2016",
+                    "description": "",
+                    "status": "completed"
+               }
+          ],
+          "archived": [
+               {
+                    "id": "669626",
+                    "name": "mohsen",
+                    "date": "05/30/2016",
+                    "description": "",
+                    "status": "archieved"
+               },
+               {
+                    "id": "816253",
+                    "name": "77",
+                    "date": "05/03/2016",
+                    "description": "",
+                    "status": "archieved"
+               }
+          ],
+          "inProgress": [
+               {
+                    "id": "848758",
+                    "name": "ahmed",
+                    "date": "05/15/2016",
+                    "description": "",
+                    "status": "inprogress"
+               }
+          ],
+          "allTasks": [
+               {
+                    "id": "848758",
+                    "name": "ahmed",
+                    "date": "05/15/2016",
+                    "description": "",
+                    "status": "inprogress"
+               },
+               {
+                    "id": "956093",
+                    "name": "234",
+                    "date": "05/14/2016",
+                    "description": "",
+                    "status": "completed"
+               }
+          ]
+     },
+     {
+          "name": "name",
+          "email": "mail@hotmail.com",
+          "password": "password",
+          "completed": [
+               {
+                    "id": "882315",
+                    "name": "ay 7aga",
+                    "date": "05/10/2016",
+                    "description": "",
+                    "status": "completed"
+               }
+          ],
+          "archived": [],
+          "inProgress": [
+               {
+                    "id": "848657",
+                    "name": "ay 7aga tany",
+                    "date": "05/27/2016",
+                    "description": "",
+                    "status": "inprogress"
+               },
+               {
+                    "id": "396560",
+                    "name": "lmfao",
+                    "date": "",
+                    "description": "",
+                    "status": "inprogress"
+               }
+          ],
+          "allTasks": [
+               {
+                    "id": "882315",
+                    "name": "ay 7aga",
+                    "date": "05/10/2016",
+                    "description": "",
+                    "status": "completed"
+               },
+               {
+                    "id": "848657",
+                    "name": "ay 7aga tany",
+                    "date": "05/27/2016",
+                    "description": "",
+                    "status": "inprogress"
+               },
+               {
+                    "id": "396560",
+                    "name": "lmfao",
+                    "date": "",
+                    "description": "",
+                    "status": "inprogress"
+               }
+          ]
+     }
+]
